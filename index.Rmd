@@ -1,45 +1,37 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Carlos García-González"
+image: "Fotito.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Ibt
+    url: "https://www.ibt.unam.mx/perfil/7197/carlos-garcia-gonzalez"
+  - label: Email
+    url: "mailto: carlosgg@lcg.unam.mx"
+  - label: GitHub
+    url: "https://github.com/carlosgglez"
+  - label: Bluesky
+    url: "https://bsky.app/profile/carlos-glez18.bsky.social"
+  - label: Instagram
+    url: "https://www.instagram.com/_carlos_gb__/"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Je m’appelle Carlos García-González et je suis actuellement étudiant en <a href="https://www.lcg.unam.mx/"><span style="color:  #ff7ea8;"> **Licence en Sciences Génomiques**</span></a> à l’Université Nationale Autonome du Mexique. Je réalise également un séjour de recherche dans le laboratoire de la <a href="https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-medicina-molecular-y-bioprocesos-52/grupo-de-la-dra-yvonne-rosenstein-14"><span style="color:  #ff7ea8;"> **Dre Yvonne Jane Rosenstein Azoulay.**</span></a> Je m’intéresse particulièrement à l’immunologie, notamment dans les domaines des maladies auto-immunes et du cancer, avec un intérêt marqué pour le lupus érythémateux systémique. Par ailleurs, je m'intéresse pour l’étude des petits peptides de défense de l’hôte et leur rôle dans la régulation de la réponse immunitaire.
 
-## Education
 
-**INSEAD** | Fontainebleau, France
 
-M.B.A. | August 2014 - June 2015
+## Éducation
 
-**The Juilliard School** | New York, NY
+**Licence en Sciences Génomiques** | Cuernavaca, Mexique
 
-B.F.A. in Music Performance | August 2005 - May 2009
+Premier cycle | Août 2023 - présent
 
-## Experience
+## Expérience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Séjour de recherche** | Laboratoire de la Dre Yvonne Jane Rosenstein Azoulay (IBT-UNAM) | Janvier 2024 - Present
 
-**Cercle** | Producer | August 2018 - Present
+**Séjour de recherche** | Laboratoire de la Dre Esperanza Martínez Rómero (CCG-UNAM) | Janvier 2024 - Juin 2024
 
-**National Public Radio** | Producer | May 2015 - July 2018
-
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**Court séjour de recherche** | M. en S. Alejandra AlvaradoZink (Maison des sciences-UNAM) | Juin 2023 - Juin 2023
